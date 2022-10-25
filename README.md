@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Albert, alias Neo
 - 👀 I’m interested in unlocking my potential
-- 🌱 I’m currently learning Python
+- 🌱 C++ is my love
 - 💞️ I’m looking to create stunning projects
-- 📫 How to reach me: PM on Github
+- 📫 How to reach me: PM on Github or add me on Discord(details told on PM)
 
 <!---
 Neo802/Neo802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
