@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Albert, alias Neo
 - 👀 I’m interested in unlocking my potential
-- 🌱 C++ is my love
+- 🌱 C++ is the best
 - 💞️ I’m looking to create stunning projects
 - 📫 How to reach me: PM on Github or add me on Discord(details told on PM)
 
