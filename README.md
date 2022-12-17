@@ -3,6 +3,7 @@
 - 👀 I’m looking to unlock my potential
 - 💞️ I’m looking to create stunning projects
 - 📫 How to reach me: PM on Github or add me on Discord(details told on PM)
+- 💉 I am the cure to most, if not, all coding problems
 
 <!---
 Neo802/Neo802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
