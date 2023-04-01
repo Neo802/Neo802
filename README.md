@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Albert, alias Neo
-- 🌱 C++ is the best
+- 🌱 C++ and Java are the best
 - 👀 I’m looking to unlock my potential
 - 💞️ I’m looking to create stunning projects
 - 📫 How to reach me: PM on Github or add me on Discord(details told on PM)
