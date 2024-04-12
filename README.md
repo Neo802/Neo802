@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Albert, alias Neo
-- 🌱 C Language Family and Machine Code are the best
+- 🖥️ C Language Family and Machine Code are the best
+- 🤝 I'm looking to enter in the tech industry this year
 - 👀 I’m looking to unlock my potential
-- 💞️ I’m looking to create stunning projects
+- 📜 I’m looking to create stunning projects
 - 📫 How to reach me: PM on Github
 
 <!---
