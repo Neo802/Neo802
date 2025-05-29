@@ -3,6 +3,7 @@
 - 👀 I'm looking to unlock my potential
 - 📜 I'm looking to create stunning projects
 - 📫 How to reach me: PM on Github
+- 🎮 Recently made my first Roblox project open-source
 
 <!---
 Neo802/Neo802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
