@@ -1,8 +1,7 @@
 <img width="1112" height="225" alt="GitWelcome" src="https://github.com/user-attachments/assets/10c1064d-bbc0-4c7f-9a56-e51f672454b2" />
 
-## Heyy!
+## Greetings, I'm Albert!
 
-- 👋 I'm Albert
 - 🤝 Independent Software Engineer
 - 🤖 Machine Learning and AI
 - 🛠️ Currently creating a new project with my team
