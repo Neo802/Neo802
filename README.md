@@ -2,7 +2,7 @@
 
 ## Greetings, I'm Albert!
 
-- 🤝 Independent Software Engineer
+- 🤝 Independent AI Engineer
 - 🤖 Machine Learning and AI
 - 🛠️ Currently creating a new project with my team
 - 🎮 Recently made my first major Roblox project open-source
