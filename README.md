@@ -5,7 +5,6 @@
 - 🤝 Independent AI Engineer
 - 🤖 Machine Learning and AI
 - 🛠️ Currently creating a new project with my team
-- 🎮 Recently made my first major Roblox project open-source
 
 <!---
 Neo802/Neo802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
