@@ -2,9 +2,7 @@
 
 ## Greetings, I'm Albert!
 
-- 🤝 Independent AI Engineer
 - 🤖 Machine Learning and AI
-- 🛠️ Currently creating a new project with my team
 - 😴 Currently on hiatus
 
 <!---
