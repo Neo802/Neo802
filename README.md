@@ -5,6 +5,7 @@
 - 🤝 Independent AI Engineer
 - 🤖 Machine Learning and AI
 - 🛠️ Currently creating a new project with my team
+- 😴 Currently on hiatus
 
 <!---
 Neo802/Neo802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
