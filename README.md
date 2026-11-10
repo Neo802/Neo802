@@ -3,7 +3,6 @@
 ## Greetings, I'm Albert!
 
 - 🤖 Machine Learning and AI
-- 😴 Currently on hiatus
 
 <!---
 Neo802/Neo802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
